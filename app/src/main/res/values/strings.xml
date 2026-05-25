@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Lista Filmów</string>
+
+    <string name="screen_watchlist">Do obejrzenia</string>
+    <string name="screen_search">Szukaj</string>
+    <string name="screen_watched">Obejrzane</string>
+
+    <string name="title_watchlist">Filmy do obejrzenia</string>
+    <string name="title_search">Szukaj filmu</string>
+    <string name="title_watched">Obejrzane filmy</string>
+
+    <string name="empty_watchlist">Brak filmów na liście</string>
+    <string name="empty_watched">Brak obejrzanych filmów</string>
+
+    <string name="movie_title_label">Tytuł filmu</string>
+    <string name="button_search">Szukaj</string>
+    <string name="button_add_to_watchlist">Dodaj do listy</string>
+    <string name="button_mark_watched">Obejrzane</string>
+    <string name="button_move_to_watchlist">Cofnij</string>
+    <string name="button_delete">Usuń</string>
+
+    <string name="search_instruction">Wpisz tytuł filmu i kliknij Szukaj.</string>
+    <string name="movie_not_found">Nie znaleziono filmu</string>
+    <string name="connection_error">Błąd połączenia: %1$s</string>
+
+    <string name="year_label">Rok: %1$s</string>
+    <string name="genre_label">Gatunek: %1$s</string>
+    <string name="rating_label">Ocena IMDb: %1$s</string>
+
+    <string name="icon_watchlist">Ikona listy do obejrzenia</string>
+    <string name="icon_search">Ikona wyszukiwania</string>
+    <string name="icon_watched">Ikona obejrzanych</string>
+</resources>
